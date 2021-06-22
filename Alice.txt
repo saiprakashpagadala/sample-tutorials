@@ -1,3 +1,2 @@
-hello 
 my name is sai prakash
-and I am undergoing full stack developer training.  
+and I am undergoing full stack developer training.
